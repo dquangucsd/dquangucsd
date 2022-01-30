@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I am Danny, a currently a second year Data Science major at the University of California, San Diego. I am currently seeking internships that help me explore computer and data science fields.
+
+I am currently working on projects involving iOS app development and surviving college!
 
 <!--
 **dquangucsd/dquangucsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
