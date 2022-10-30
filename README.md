@@ -1,6 +1,6 @@
 # Hi! 
 
-I am Danny, a currently a second year *Data Science* major at the University of California, San Diego.
+I am Danny, a currently a second year *Computer Science* major at the University of California, San Diego.
 
 
 <!--
