@@ -1,6 +1,6 @@
 # Hi! 
 
-I am Danny, a currently a third year *Computer Science* major at the University of California, San Diego.
+I am Danny, a currently a master's student with a *Computer Science* major at the University of California, San Diego.
 
 
 <!--
